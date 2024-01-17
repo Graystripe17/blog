@@ -2,4 +2,4 @@
 title: Thoughts from space
 ---
 
-My blog
+My blog, to test my thoughts
