@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Thoughts from space
 ---
 
+My blog
